@@ -110,6 +110,8 @@ $('document').ready(function(){
 		// $('#b4').addClass('balloons-rotate-behaviour-one');
 		// $('#b5').addClass('balloons-rotate-behaviour-one');
 		// $('#b6').addClass('balloons-rotate-behaviour-two');
+		//$('#b1,#b4,#b5,#b7').addClass('balloons-rotate-behaviour-one');
+		
 		// $('#b7').addClass('balloons-rotate-behaviour-one');
 		loopOne();
 		loopTwo();
